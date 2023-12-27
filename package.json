@@ -1,0 +1,16 @@
+{
+  "name": "wdio-emailablereports-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/reporter": "^8.27.0"
+  }
+}
